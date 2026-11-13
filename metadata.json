@@ -1,0 +1,6 @@
+{
+  "name": "Nevelőszülői SJT",
+  "description": "Nevelőszülői helyzetmegítélési teszt a hazudozás és szabályszegés témakörében – 10 helyzet önreflexióhoz és képzéshez.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
